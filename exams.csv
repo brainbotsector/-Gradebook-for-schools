@@ -1,0 +1,21 @@
+student_rollno,student names,gender,math score,science score,history score,geog score,sports score
+1,Brian,female,72,72,74,72,72
+2,Christopher,male,69,90,88,69,90
+3,Ricky,female,90,95,93,90,95
+4,George,male,47,57,44,47,57
+5,Henry,male,76,78,75,76,78
+6,Keith,male,71,83,78,71,83
+7,Joseph,male,88,95,92,88,95
+8,John,female,40,43,39,40,43
+9,William,female,64,64,67,64,64
+10,Thomas,male,38,60,50,38,60
+11,Henry,male,58,54,52,58,54
+12,Robyn,female,40,52,43,40,52
+13,Mary,female,65,81,73,65,81
+14,Walter,female,78,72,70,78,72
+15,James,female,50,53,58,50,53
+16,Hannah,male,69,75,78,69,75
+17,William,female,88,89,86,88,89
+18,John,female,18,32,28,18,32
+19,David,male,46,42,46,46,42
+20,,,,,,,
